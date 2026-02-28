@@ -59,7 +59,7 @@ export default function Navbar() {
               className="font-bold text-lg leading-tight"
               style={{ fontFamily: "'Zen Old Mincho', serif", color: "oklch(0.22 0.01 285)" }}
             >
-              やすらぎ<br />
+              さんぷる<br />
               <span className="text-xs font-normal" style={{ fontFamily: "'Noto Sans JP', sans-serif", color: "oklch(0.55 0.01 85)" }}>
                 訪問介護サービス
               </span>
